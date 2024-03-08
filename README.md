@@ -5,7 +5,7 @@
 -->
 
 <h1> Eu sou o Pedro...</h1>
-<h2>Atualmente estou aprendendo javscript, Htm e Css, e React Native ...</h2>
+<h2>Atualmente estou aprendendo javascript, Htm e Css, e React Native ...</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
