@@ -2,11 +2,9 @@
 
 <!--
 **pedrohenrique0134/pedrohenrique0134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-###🔭<h1> eu sou Pedro ...</h1>
-###🌱 <h2>atualmente estou aprendendo javscript, htm e css, e React Native ...</h2>
 -->
-
+<h1> eu sou Pedro ...</h1>
+<h2>atualmente estou aprendendo javscript, htm e css, e React Native ...</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
