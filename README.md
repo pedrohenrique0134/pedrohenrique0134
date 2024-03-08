@@ -3,8 +3,8 @@
 <!--
 **pedrohenrique0134/pedrohenrique0134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###🔭 eu sou Pedro ...
-###🌱 atualmente estou aprendendo javscript, htm e css, e React Native ...
+###🔭<h1> eu sou Pedro ...</h1>
+###🌱 <h2>atualmente estou aprendendo javscript, htm e css, e React Native ...</h2>
 -->
 
 <div style="display: inline_block"><br>
